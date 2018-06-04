@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+
+}
+
+.bootstrap {
+    display: flex;
+    
+    
+        /* margin-top: 15px;
+        margin-left: 15px;
+        margin-bottom: 10px; */
+    
+  }
+
+
+.nav_list{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: center;
+     
+    
+}
